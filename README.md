@@ -1,0 +1,1 @@
+# k8s-bootcamp-day5-mini-blog
